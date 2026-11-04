@@ -7,7 +7,6 @@ I'm an engineering student specializing in **Software Engineering and Intelligen
 My interests lie at the intersection of:
 - Artificial Intelligence and Machine Learning
 - Data Science and Statistical Analysis
-- Software Engineering and Web Development
 - Intelligent Systems and IoT
 
 ### 🔬 Areas of Interest
@@ -33,7 +32,7 @@ Explore my repositories to discover projects involving:
 - AI-powered applications
 - Data analysis and statistical methods
 - Full-stack web development
-- IoT and intelligent systems
+
 
 ### 🌱 Currently Exploring
 

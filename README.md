@@ -41,16 +41,3 @@ Explore my repositories to discover projects involving:
 - Software architecture and engineering
 - Research methodologies and reproducible experiments
 
-### 🤝 Collaboration
-
-I'm interested in collaborating on projects related to AI, machine learning, data science, and software engineering.
-
-I'm also interested in research opportunities where I can learn, contribute, and work with interdisciplinary teams.
-
-### 📫 Contact
-
-- GitHub: [@rrim04](https://github.com/rrim04)
-
----
-
-*Curiosity, experimentation, and continuous learning.*
